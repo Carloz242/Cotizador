@@ -84,7 +84,7 @@ label {
     padding: 16px;
     border: none;
     border-radius: 8px;
-    background: #8a2be2; /* El morado de la referencia */
+    background: #8a2be2; 
     color: white;
     font-weight: bold;
     font-size: 1rem;
@@ -183,4 +183,5 @@ label {
     #coind-info {
         text-align: left;
     }
+
 }
